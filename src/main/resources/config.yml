@@ -1,0 +1,2 @@
+limit-free-bytes: 8589934592
+error-message: "&cYou can't create the island as the system is low disk space. Ask an admin to expand the system."

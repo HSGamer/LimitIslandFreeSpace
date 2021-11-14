@@ -1,0 +1,6 @@
+name: ${project.name}
+main: me.hsgamer.limitislandfreespace.LimitIslandFreeSpace
+version: ${project.version}
+api-version: 1.18.0
+
+authors: HSGamer
